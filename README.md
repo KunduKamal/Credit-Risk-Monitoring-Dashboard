@@ -168,7 +168,7 @@ The actuarial layer that converts operational signals into euro-denominated loss
   long-standing customer's account manager. For trade credit at this scale,
   explainability wins.
 
-## What's missing (and what I'd add at Radius)
+## What's missing
 
 - **Real data connectors** — Creditreform API client, Bundesanzeiger scraper,
   internal database queries
