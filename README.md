@@ -1,14 +1,12 @@
 # Radius Credit Risk Monitor — Demo Prototype
 
-> A three-layer credit risk monitoring system for SME trade-credit portfolios,
-> built as interview preparation for the Junior Regional Risk Analyst role at Radius.
+> A three-layer credit risk monitoring system for SME trade-credit portfolios.
 
 ---
 
 ## What this is
 
-A working prototype of the credit risk monitoring system described in my Round 1
-conversation with Camille. The architecture matches what I described:
+A working prototype of the credit risk monitoring system.
 
 > *"Layer one is data ingestion. Layer two is a scoring layer that flags
 > customers crossing pre-defined thresholds. Layer three is the analyst-facing
