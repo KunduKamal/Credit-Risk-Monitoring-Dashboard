@@ -38,7 +38,7 @@ Open `output/dashboard.html` in any browser to see the result.
 ## Project structure
 
 ```
-radius_risk_monitor/
+risk_monitor/
 ├── data_generator.py        Layer 1: data ingestion (simulated source tables)
 ├── risk_engine.py           Layer 2a: composite operational scoring
 ├── expected_loss.py         Layer 2b: PD/LGD/EAD/EL actuarial framework
