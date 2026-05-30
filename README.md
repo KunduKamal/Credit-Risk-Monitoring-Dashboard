@@ -1,4 +1,4 @@
-# Radius Credit Risk Monitor — Demo Prototype
+# Credit Risk Monitor — Demo Prototype
 
 > A three-layer credit risk monitoring system for SME trade-credit portfolios.
 
