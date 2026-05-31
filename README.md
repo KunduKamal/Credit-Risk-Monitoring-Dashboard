@@ -1,7 +1,8 @@
 # Credit Risk Monitor — Demo Prototype
 
 > A three-layer credit risk monitoring system for SME trade-credit portfolios.
-https://github.com/KunduKamal/Credit-Risk-Monitoring-Dashboard/blob/main/dashboard.html
+> [Click here to view the webpage!](https://github.com/KunduKamal/Credit-Risk-Monitoring-Dashboard/blob/main/dashboard.html)
+
 ---
 
 ## What this is
